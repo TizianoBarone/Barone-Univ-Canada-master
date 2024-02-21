@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Universidades</string>
+    <string name="dominios">Dominios</string>
+    <string name="paginas_web">Páginas Web</string>
+    <string name="alpha_code">Alpha Code</string>
+    <string name="estado">Estado</string>
+    <string name="pais">Pais</string>
+    <string name="nombre_de_la_universidad">Nombre de la Universidad</string>
+    <string name="volver">Volver</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="usernameregister">Nombre usuario</string>
+    <string name="passwordregister">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="registerregister">Registrarse</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+</resources>
